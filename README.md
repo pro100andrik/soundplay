@@ -11,3 +11,5 @@ Open VLC player and choose in menu "messages" https://i.imgur.com/tWUogE6.png , 
 Coppy this numbers and paste it in main script window https://i.imgur.com/IhELTEH.png
 
 Than you can configurate audio files and keys in user friendly interface and do pranks =)
+
+Progaramm https://github.com/pro100andrik/soundplay/releases/tag/1.0
