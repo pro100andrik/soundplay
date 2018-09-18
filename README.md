@@ -1,3 +1,1 @@
-# soundplay
 
-How to install
